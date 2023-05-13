@@ -1,0 +1,9 @@
+# gui.yaml
+actions:
+  - action: package.install
+    provider: apt
+    list:
+      - gnome-tweaks
+      - handbrake
+      - keepassxc
+      - sound-juicer
