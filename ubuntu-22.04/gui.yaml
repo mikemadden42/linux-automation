@@ -1,7 +1,7 @@
 # gui.yaml
 actions:
   - action: package.install
-    provider: apt
+    provider: aptitude
     list:
       - gnome-tweaks
       - handbrake
