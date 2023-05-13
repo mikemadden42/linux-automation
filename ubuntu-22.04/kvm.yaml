@@ -1,7 +1,7 @@
 # kvm.yaml
 actions:
   - action: package.install
-    provider: aptitude
+    provider: apt
     list:
       - bridge-utils
       - cpu-checker
