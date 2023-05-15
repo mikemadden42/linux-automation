@@ -1,7 +1,6 @@
 # cli.yaml
 actions:
   - action: package.install
-    provider: apt
     list:
       - acpi
       - ant
